@@ -19,7 +19,10 @@
     <a href="https://mit-license.org">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
     </a>
-    <a href="https://github.com/markdown-templates/markdown-snippets/issues">
+    <a href="https://github.com/ezaspy/markdown-snippets/issues">
+    <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
+    </a>
+    <a href="https://github.com/ezaspy/markdown-snippets/issues">
     <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
     </a>
     <br><br>
