@@ -19,13 +19,13 @@
     <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
     </a>
-    <a href="https://github.com/markdown-templates/markdown-snippets/issues">
+    <a href="https://github.com/ezaspy/bruce/issues">
     <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
     </a>
-    <a href="https://github.com/markdown-templates/markdown-snippets/fork">
+    <a href="https://github.com/ezaspy/bruce/fork">
     <img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
     </a>
-    <a href="https://github.com/markdown-templates/markdown-snippets/stargazers">
+    <a href="https://github.com/ezaspy/bruce/stargazers">
     <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
     </a>
     <br><br>
