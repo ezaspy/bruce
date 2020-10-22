@@ -13,7 +13,7 @@
                                                                         \________/
 ```
 <p align="center">
-  <h3 align="center">bruce</h3>
+  <h1 align="center">bruce</h1>
   <p align="center">
     Accelerating the parsing PCAPS into JSON format as well as ability to extract files from those PCAPS
     <br><br>
