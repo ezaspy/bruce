@@ -17,7 +17,7 @@
     Accelerating the parsing PCAPS into JSON format as well as ability to extract files from those PCAPS
     <br><br>
     <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
     </a>
     <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/language-python-red" alt="Language">
