@@ -22,6 +22,12 @@
     <a href="https://github.com/ezaspy/bruce/issues">
     <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
     </a>
+    <a href="https://github.com/ezaspy/bruce/forks">
+    <img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
+    </a>
+    <a href="https://github.com/ezaspy/bruce/stars">
+    <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
+    </a>
     <br><br>
     <a href="https://github.com/ezaspy/bruce">View Demo</a>
     ·
