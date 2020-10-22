@@ -19,6 +19,9 @@
     <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License">
     </a>
+    <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/language-python-red" alt="Language">
+    </a>
     <a href="https://github.com/ezaspy/bruce/issues">
     <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
     </a>
