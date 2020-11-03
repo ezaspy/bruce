@@ -32,12 +32,6 @@
     <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
     </a>
     <br><br>
-    <a href="https://github.com/ezaspy/bruce">View Demo</a>
-    ·
-    <a href="https://github.com/ezaspy/bruce/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ezaspy/bruce/issues">Request Feature</a>
-    <br><br>
   </p>
 </p>
 
