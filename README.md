@@ -45,9 +45,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
+* [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -63,14 +61,6 @@
 bruce has been created to help fellow digitial forensicators with reading and interpreting PCAP files without the need to trawl though Wireshark. bruce utilises tshark to convert the PCAPS and outputs them into JSON to then be indexed into log management or SIEM platforms alongside other data sources.
 <br>
 
-### Built With
-
-* [Python 3.7+](https://www.python.org)
-* [Visual Studio Code](https://code.visualstudio.com)
-<br><br>
-
-
-<!-- Prerequisites -->
 ## Prerequisites
 
 * [tshark](https://tshark.dev)
