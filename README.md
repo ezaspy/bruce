@@ -31,7 +31,7 @@
     <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/language-python-yellow" alt="Python">
     </a>
-    <img src="https://img.shields.io/badge/subject-DFIR-purple" alt="Subject">
+    <img src="https://img.shields.io/badge/subject-DFIR-red" alt="Subject">
     </a>
     <a href="https://github.com/elrond/forks">
     <img src="https://img.shields.io/github/last-commit/ezaspy/bruce" alt="Last Commit">
