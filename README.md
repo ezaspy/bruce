@@ -16,20 +16,25 @@
   <p align="center">
     Accelerating the parsing PCAPS into JSON format as well as ability to extract files from those PCAPS
     <br><br>
-    <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+    <a href="https://mit-license.org">
+    <img src="https://img.shields.io/badge/license-MIT-black.svg" alt="License: MIT">
     </a>
-    <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/language-python-red" alt="Language">
-    </a>
-    <a href="https://github.com/ezaspy/bruce/issues">
+    <a href="https://github.com/bruce/issues">
     <img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
     </a>
-    <a href="https://github.com/ezaspy/bruce/fork">
+    <a href="https://github.com/bruce/forks">
     <img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
-    </a>
     <a href="https://github.com/ezaspy/bruce/stargazers">
     <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
+    </a>
+    </a>
+    <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/language-python-yellow" alt="Python">
+    </a>
+    <img src="https://img.shields.io/badge/subject-DFIR-purple" alt="Subject">
+    </a>
+    <a href="https://github.com/elrond/forks">
+    <img src="https://img.shields.io/github/last-commit/ezaspy/bruce" alt="Last Commit">
     </a>
     <br><br>
   </p>
