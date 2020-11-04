@@ -27,13 +27,11 @@
     <a href="https://github.com/ezaspy/bruce/stargazers">
     <img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
     </a>
-    </a>
     <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/language-python-yellow" alt="Python">
     </a>
     <img src="https://img.shields.io/badge/subject-DFIR-red" alt="Subject">
-    </a>
-    <a href="https://github.com/elrond/forks">
+    <a href="https://github.com/bruce/forks">
     <img src="https://img.shields.io/github/last-commit/ezaspy/bruce" alt="Last Commit">
     </a>
     <br><br>
