@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/language-python-yellow" alt="Python">
     </a>
     <img src="https://img.shields.io/badge/subject-DFIR-red" alt="Subject">
-    <a href="https://github.com/bruce/forks">
     <img src="https://img.shields.io/github/last-commit/ezaspy/bruce" alt="Last Commit">
     </a>
     <br><br>
@@ -137,4 +136,3 @@ Project Link: [https://github.com/ezaspy/bruce](https://github.com/ezaspy/bruce)
 [issues-url]: https://github.com/ezaspy/bruce/issues
 [license-shield]: https://img.shields.io/github/license/ezaspy/bruce.svg?style=flat-square
 [license-url]: https://github.com/ezaspy/bruce/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
